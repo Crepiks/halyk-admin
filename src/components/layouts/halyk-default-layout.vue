@@ -28,5 +28,10 @@ export default {
   height: 100%;
   box-sizing: border-box;
   min-height: 100vh;
+
+  &-content {
+    padding-top: 100px;
+    width: 100%;
+  }
 }
 </style>
